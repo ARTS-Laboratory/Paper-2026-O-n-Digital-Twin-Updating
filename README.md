@@ -24,9 +24,3 @@ Cite this data as:
   url    = {github.com/ARTS-Laboratory/Paper-2026-O-n-Digital-Twin-Updating},   
 }
 
-<p align="center">
-<img src="media/QR-code.png" alt="drawing" width="200"/>
-</p>
-<p align="center">
-QR code for repo.
-</p>
